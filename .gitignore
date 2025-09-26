@@ -1,0 +1,118 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Model files (large)
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Results and logs
+results/
+logs/
+*.log
+
+# Data directories (may contain large files)
+data/Dataset/
+data/real_videos/*.mp4
+data/real_videos/*.avi
+data/real_videos/*.mov
+data/fake_videos/*.mp4
+data/fake_videos/*.avi
+data/fake_videos/*.mov
+test_data/*.mp4
+test_data/*.avi
+test_data/*.mov
+# Image datasets (exclude all dataset images)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.tif
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX files (academic paper - not included in GitHub repo)
+*.tex
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kaggle API keys
+kaggle.json
