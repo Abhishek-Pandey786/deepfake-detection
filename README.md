@@ -369,5 +369,3 @@ This project is for educational and research purposes. Please respect dataset li
 Feel free to contribute improvements, bug fixes, or additional features!
 
 ---
-
-**Happy Deepfake Detection! 🕵️‍♀️🤖**
